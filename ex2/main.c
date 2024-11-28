@@ -2,7 +2,7 @@
 
 int main() {
     printf("     2024年11月\n");
-    printf(" Su Mo Tu We Th Fr Sa\n");
+    printf(" Mo Tu We Th Fr Sa Su\n");
     printf("                 1  2\n");
     printf("  3  4  5  6  7  8  9\n");
     printf(" 10 11 12 13 14 15 16\n");
